@@ -1,7 +1,9 @@
 import { createApp } from 'airx'
 
+import { Home } from './pages/home'
+
 function App() {
-  return () => <span>app</span>
+  return () => <Home />
 }
 
 createApp(<App></App>).mount(document.getElementById('app')!)

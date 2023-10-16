@@ -1,0 +1,35 @@
+.footbar {
+  text-align: right;
+  box-sizing: border-box;
+}
+
+.container {
+  width: 100%;
+  box-sizing: border-box;
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.row {
+  display: flex;
+  flex-wrap: wrap;
+  margin-right: -15px;
+  margin-left: -15px;
+  
+  justify-content: space-between;
+}
+
+.mail a {
+  color: #fff;
+  font-size: 12px;
+  font-weight: 600;
+}
+
+.copyright p {
+  line-height: normal;
+  font-size: 12px;
+  margin: 5px 0 0 0;
+  color: #5c5c5c;
+}

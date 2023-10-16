@@ -12,8 +12,8 @@
     "airx": "^0.1.5"
   },
   "devDependencies": {
+    "vite": "^4.4.11",
     "typescript": "^5.0.2",
-    "vite": "^4.4.5",
     "vite-plugin-airx": "^0.1.0"
   }
 }
