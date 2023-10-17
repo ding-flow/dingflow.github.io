@@ -15,13 +15,13 @@ export function Home() {
           <div class={style.headingTextFront}>
             <h1>联系我们
               <br />
-              获取定制服务
+              获取定制数据服务
             </h1>
           </div>
           <div class={style.headingTextBack}>
             <h1>联系我们
               <br />
-              获取定制服务
+              获取定制数据服务
             </h1>
           </div>
         </div>
@@ -31,7 +31,7 @@ export function Home() {
     const connect = (
       <div class={style.connect}>
         <div class={style.connectItem}>
-          
+            13966989583
         </div>
       </div>
     )

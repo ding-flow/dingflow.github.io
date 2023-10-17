@@ -30,7 +30,7 @@
   transform: matrix(1, 0, 0.36397, 1, -128, -226);
   transform: translate(60%, 0%) skew(20deg);
   height: 80vh;
-  width: 20vw;
+  width: 14vw;
 }
 
 .headingTextFront {
@@ -60,4 +60,14 @@
   font-weight: 900;
   letter-spacing: 1px;
   font-size: var(--font-size);
+}
+
+.connect {
+  padding: 20px 0;
+  border-top: 2px solid white;
+}
+
+.connectItem {
+  font-size: 40px;
+  font-weight: bold;
 }
