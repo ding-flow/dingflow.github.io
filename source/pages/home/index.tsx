@@ -47,7 +47,7 @@ export function Home() {
             {mainHead}
           </div>
           <div class={style.screen}>
-            {connect}
+            {/* {connect} */}
           </div>
         </div>
       </Layout>
