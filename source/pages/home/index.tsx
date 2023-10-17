@@ -28,15 +28,6 @@ export function Home() {
       </div>
     )
 
-    const connect = (
-      <div class={style.connect}>
-        <div class={style.connectItem}>
-            {/* 13966989583 */}
-        </div>
-      </div>
-    )
-
-
     return (
       <Layout
         navbar={<Navbar />}
@@ -45,9 +36,6 @@ export function Home() {
         <div class={style.home}>
           <div class={style.screen}>
             {mainHead}
-          </div>
-          <div class={style.screen}>
-            {/* {connect} */}
           </div>
         </div>
       </Layout>
