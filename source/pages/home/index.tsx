@@ -31,7 +31,7 @@ export function Home() {
     const connect = (
       <div class={style.connect}>
         <div class={style.connectItem}>
-            13966989583
+            {/* 13966989583 */}
         </div>
       </div>
     )
