@@ -11,7 +11,7 @@ export function Home() {
     const mainHead = (
       <div class={style.mainHead}>
         <div class={style.headingText}>
-        <div class={style.headMove}></div>
+          <div class={style.headMove}></div>
           <div class={style.headingTextFront}>
             <h1>联系我们
               <br />

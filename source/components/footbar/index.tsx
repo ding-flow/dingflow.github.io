@@ -35,6 +35,7 @@ export function Footbar() {
               <div class={style.copyright}>
                 <p>DingFlow &copy;2023. All Rights Reserved</p>
                 <p>Made with ♥ By Alain.</p>
+                <p><a href="https://beian.miit.gov.cn/">皖ICP备19004644号-3</a></p>
               </div>
             </div>
           </div>
